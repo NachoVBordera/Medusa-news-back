@@ -1,0 +1,6 @@
+.env
+.eslintrc.json
+.prettierrc.json
+./node_modules
+image.jpg
+
